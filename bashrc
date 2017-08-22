@@ -10,7 +10,6 @@ HISTSIZE=-1
 shopt -s histappend
 shopt -s checkwinsize
 
-
 PS1='\n  \[\e[0;36m\]\W\[\e[m\] \[\e[1;31m\]■:\[\e[m\] '
 
 if [ -x /usr/bin/dircolors ]; then
@@ -32,5 +31,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
-
