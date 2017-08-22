@@ -1,0 +1,9 @@
+set default-fg "#606359"
+set default-bg "#dcdab3"
+set font terminus normal 12
+set highlight-color "#dcdab3"
+set recolor true
+set recolor-lightcolor "#606359"
+set recolor-darkcolor "#dcdab3"
+set index-bg "#606359"
+set index-fg "#dcdab3"

@@ -1,0 +1,20 @@
+sw_volume: 42
+audio_device_state:1:MPD
+audio_device_state:1:FIFO
+state: stop
+current: 1
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3
+1:big-youth-dreadlocks-dread-full-album-caocejueexi.wav
+2:f.couperin-harpsichord-works-vol.1-scott-ross-b490mb9ccdu.wav
+3:buxtehude-passacaglia-d-minor-vcpz8v7fmty.wav
+4:clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav
+5:boom-bam-bum-boo-chop-173054614-soundcloud.mp3
+playlist_end

@@ -1,0 +1,50 @@
+shell 	cp zathurarc-grey zathurarc
+rename apkgn
+find 
+shell 	mv 2017-08-11-063941_1366x768_scrot.png 
+rename fxd.png
+shell 	mv A.\'.\ A.\'.\  a.'
+shell 	unzip 0=0.zip 
+shell 	mkdir fonts
+shell 	rm new 
+shell 	rm -r transmission 
+open_with 
+shell 
+shell 	mv labs-grey* 
+open_with
+shell 	mv labs-grey grey
+shell 	mv labs-grey-xcolors grey-xcolors
+shell 	mv labs-white white
+shell 	mv labs-white-xcolors white-xcolors
+shell 	vim xcolpik 
+shell 	vim apkg 
+shell 	vim psmem 
+rename apkgpkg
+rename apkg
+rename apn24x24
+shell 	legal
+shell 	mkdir legal
+rename sallie-mae navient
+shell 	mkdir fms
+rename navient
+rename rehabilitation-reference-sheetxx.pdf
+rename A.'. A.'. 
+shell 	rm creep.2014.hdrip.xvid.ac3-evo.avi 
+rename __MACOSX
+shell 	rre
+delete 
+shell 	unzip loucohen16.zip 
+shell 	unzip loucohen22.zip 
+shell 	unzip 
+shell 	unzip loucohen44.zip 
+shell 	
+rename bash_aliases
+rename Xresources
+rename bashrc
+rename bash_profile
+rename bash_logout
+rename bash_history
+rename bash_functions
+shell 	rm
+shell 	rm -r .git 
+shell 	rm README.md 

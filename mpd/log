@@ -1,0 +1,773 @@
+Aug 07 01:43 : exception: Failed to open /home/gako/.config/mpd/state: No such file or directory
+Aug 07 01:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:43 : avahi: Service 'Music Player' successfully established.
+Aug 07 01:43 : client: [0] opened from [::1]:42136
+Aug 07 01:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:44 : client: [0] closed
+Aug 07 01:45 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 01:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:45 : avahi: Service 'Music Player' successfully established.
+Aug 07 01:48 : client: [0] opened from [::1]:42516
+Aug 07 01:48 : client: [0] closed
+Aug 07 01:48 : client: [1] opened from [::1]:42518
+Aug 07 01:49 : client: [1] closed
+Aug 07 01:50 : client: [2] opened from [::1]:42520
+Aug 07 01:50 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 01:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:50 : avahi: Service 'Music Player' successfully established.
+Aug 07 01:52 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 01:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:52 : client: [0] opened from [::1]:42646
+Aug 07 01:52 : client: [0] closed
+Aug 07 01:52 : client: [1] opened from [::1]:42648
+Aug 07 01:52 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 01:52 : client: [1] closed
+Aug 07 01:52 : avahi: Service 'Music Player' successfully established.
+Aug 07 01:52 : client: [2] opened from [::1]:42650
+Aug 07 01:52 : client: [2] closed
+Aug 07 01:52 : client: [3] opened from [::1]:42652
+Aug 07 01:52 : client: [3] closed
+Aug 07 01:53 : client: [4] opened from [::1]:42654
+Aug 07 01:53 : client: [4] closed
+Aug 07 01:53 : client: [5] opened from [::1]:42656
+Aug 07 01:54 : avahi: Client Disconnected, will reconnect shortly
+Aug 07 01:55 : client: [5] closed
+Aug 07 01:55 : client: [6] opened from [::1]:42664
+Aug 07 01:55 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 01:55 : client: [6] closed
+Aug 07 01:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:56 : client: [0] opened from [::1]:42666
+Aug 07 01:56 : client: [0] closed
+Aug 07 01:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 01:56 : client: [1] opened from [::1]:42668
+Aug 07 02:03 : client: [1] closed
+Aug 07 02:03 : client: [2] opened from [::1]:42678
+Aug 07 02:03 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 02:03 : client: [2] closed
+Aug 07 02:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:03 : client: [0] opened from [::1]:42680
+Aug 07 02:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:07 : client: [0] closed
+Aug 07 02:07 : client: [1] opened from [::1]:42830
+Aug 07 02:08 : client: [1] closed
+Aug 07 02:08 : client: [2] opened from [::1]:42834
+Aug 07 02:09 : client: [2] closed
+Aug 07 02:09 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:09 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:09 : client: [0] opened from [::1]:42836
+Aug 07 02:11 : client: [0] closed
+Aug 07 02:12 : client: [1] opened from [::1]:42930
+Aug 07 02:15 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 07 02:19 : player: played "Ted Drakopulos - Lady Lie Nier Me (baroque guitar) Weymss Manuscript_193465660_soundcloud (1).mp3"
+Aug 07 02:19 : exception: Not playing
+Aug 07 02:19 : exception: Not playing
+Aug 07 02:19 : exception: Not playing
+Aug 07 02:19 : exception: Not playing
+Aug 07 02:19 : exception: Not playing
+Aug 07 02:19 : exception: Not playing
+Aug 07 02:22 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 07 02:23 : player: played "Ted Drakopulos - Lady Lie Nier Me (baroque guitar) Weymss Manuscript_193465660_soundcloud (1).mp3"
+Aug 07 02:29 : client: [1] closed
+Aug 07 02:29 : client: [2] opened from [::1]:43372
+Aug 07 02:51 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 02:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 02:53 : client: [0] opened from [::1]:44028
+Aug 07 02:53 : client: [0] closed
+Aug 07 02:53 : client: [1] opened from [::1]:44030
+Aug 07 02:53 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 02:53 : client: [1] closed
+Aug 07 05:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 05:00 : client: [0] opened from [::1]:38078
+Aug 07 05:00 : client: [0] closed
+Aug 07 05:00 : client: [1] opened from [::1]:38080
+Aug 07 05:00 : client: [1] closed
+Aug 07 05:24 : client: [2] opened from [::1]:38310
+Aug 07 05:24 : client: [2] closed
+Aug 07 05:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 05:24 : client: [3] opened from [::1]:38312
+Aug 07 05:26 : client: [3] closed
+Aug 07 05:27 : client: [4] opened from [::1]:38314
+Aug 07 05:38 : client: [4] closed
+Aug 07 05:38 : client: [5] opened from [::1]:38320
+Aug 07 05:58 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 06:00 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 07 06:01 : player: played "Ted Drakopulos - Lady Lie Nier Me (baroque guitar) Weymss Manuscript_193465660_soundcloud (1).mp3"
+Aug 07 06:32 : client: [5] closed
+Aug 07 06:40 : client: [6] opened from [::1]:38828
+Aug 07 06:44 : client: [6] closed
+Aug 07 06:44 : client: [7] opened from [::1]:38874
+Aug 07 06:47 : client: [7] closed
+Aug 07 06:47 : client: [8] opened from [::1]:38978
+Aug 07 06:47 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 06:47 : client: [8] closed
+Aug 07 19:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 19:39 : client: [0] opened from [::1]:54260
+Aug 07 19:39 : client: [0] closed
+Aug 07 19:39 : client: [1] opened from [::1]:54262
+Aug 07 19:39 : client: [1] closed
+Aug 07 19:40 : client: [2] opened from [::1]:54264
+Aug 07 19:40 : client: [2] closed
+Aug 07 19:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 19:40 : client: [3] opened from [::1]:54266
+Aug 07 19:44 : client: [3] closed
+Aug 07 19:44 : client: [4] opened from [::1]:54268
+Aug 07 19:54 : exception: "MPD" [alsa] failed to play: snd_pcm_writei() failed: Broken pipe
+Aug 07 19:54 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 19:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 19:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 19:58 : client: [0] opened from [::1]:34474
+Aug 07 19:58 : client: [0] closed
+Aug 07 19:58 : client: [1] opened from [::1]:34476
+Aug 07 19:58 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 19:58 : client: [1] closed
+Aug 07 21:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:48 : client: [0] opened from [::1]:52790
+Aug 07 21:48 : client: [0] closed
+Aug 07 21:48 : client: [1] opened from [::1]:52792
+Aug 07 21:48 : client: [1] closed
+Aug 07 21:49 : client: [2] opened from [::1]:52794
+Aug 07 21:49 : client: [2] closed
+Aug 07 21:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:49 : client: [3] opened from [::1]:52796
+Aug 07 22:08 : client: [4] opened from [::1]:52996
+Aug 07 22:08 : client: [4] closed
+Aug 07 22:20 : client: [3] closed
+Aug 07 22:22 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 22:25 : client: [5] opened from [::1]:53156
+Aug 07 22:25 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 07 22:31 : client: [6] opened from [::1]:53158
+Aug 07 22:31 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 07 22:31 : client: [6] closed
+Aug 07 23:03 : client: [5] closed
+Aug 08 05:04 : client: [7] opened from [::1]:56692
+Aug 08 05:04 : client: [7] closed
+Aug 08 05:04 : client: [8] opened from [::1]:56694
+Aug 08 05:04 : client: [8] closed
+Aug 08 05:19 : client: [9] opened from [::1]:56740
+Aug 08 05:19 : client: [9] closed
+Aug 08 23:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 23:48 : client: [0] opened from [::1]:39358
+Aug 08 23:48 : client: [0] closed
+Aug 08 23:48 : client: [1] opened from [::1]:39360
+Aug 08 23:48 : client: [1] closed
+Aug 09 01:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 01:53 : client: [0] opened from [::1]:45904
+Aug 09 01:53 : client: [0] closed
+Aug 09 01:53 : client: [1] opened from [::1]:45906
+Aug 09 01:53 : client: [1] closed
+Aug 09 01:55 : client: [2] opened from [::1]:45920
+Aug 09 01:55 : client: [3] opened from [::1]:45922
+Aug 09 01:55 : client: [2] closed
+Aug 09 01:55 : client: [3] closed
+Aug 09 02:17 : client: [4] opened from [::1]:45964
+Aug 09 02:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 02:19 : client: [4] closed
+Aug 09 02:19 : client: [5] opened from [::1]:45966
+Aug 09 02:19 : client: [5] closed
+Aug 09 02:19 : client: [6] opened from [::1]:45968
+Aug 09 02:19 : client: [6] closed
+Aug 09 02:20 : client: [7] opened from [::1]:45970
+Aug 09 02:28 : client: [7] closed
+Aug 09 02:28 : client: [8] opened from [::1]:45972
+Aug 09 02:29 : client: [8] closed
+Aug 09 02:29 : client: [9] opened from [::1]:45974
+Aug 09 02:29 : client: [10] opened from [::1]:45976
+Aug 09 02:30 : client: [11] opened from [::1]:45978
+Aug 09 02:30 : client: [10] closed
+Aug 09 02:30 : client: [9] closed
+Aug 09 02:31 : client: [12] opened from [::1]:45980
+Aug 09 02:31 : client: [11] closed
+Aug 09 02:31 : client: [12] closed
+Aug 09 02:31 : client: [13] opened from [::1]:45982
+Aug 09 02:56 : client: [13] closed
+Aug 09 02:56 : client: [14] opened from [::1]:45984
+Aug 09 02:58 : client: [14] closed
+Aug 09 02:58 : client: [15] opened from [::1]:45986
+Aug 09 02:58 : client: [15] closed
+Aug 09 02:58 : client: [16] opened from [::1]:45988
+Aug 09 02:58 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 09 02:58 : client: [16] closed
+Aug 09 02:59 : client: [17] opened from [::1]:45990
+Aug 09 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 03:02 : client: [0] opened from [::1]:52908
+Aug 09 03:02 : client: [0] closed
+Aug 09 03:02 : client: [1] opened from [::1]:52910
+Aug 09 03:02 : player: played "celsius-rudeboy-slc-amiga-protracker-module-x82oxuyc6gw.wav"
+Aug 09 03:02 : client: [1] closed
+Aug 09 03:02 : client: [2] opened from [::1]:52912
+Aug 09 03:03 : exception: No such directory
+Aug 09 03:03 : exception: Failed to open /home/gako/.config/ncmpcpp/playlists/*.m3u: No such file or directory
+Aug 09 03:03 : exception: No such playlist
+Aug 09 03:05 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/01-m01.mp3"
+Aug 09 03:06 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/02-m02.mp3"
+Aug 09 03:07 : client: [2] closed
+Aug 09 03:08 : client: [3] opened from [::1]:52914
+Aug 09 03:11 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/04-m04.mp3"
+Aug 09 03:12 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/05-m05.mp3"
+Aug 09 03:21 : client: [3] closed
+Aug 09 03:21 : client: [4] opened from [::1]:53034
+Aug 09 03:21 : client: [4] closed
+Aug 09 03:21 : client: [5] opened from [::1]:53036
+Aug 09 03:21 : client: [5] closed
+Aug 09 03:26 : client: [6] opened from [::1]:53038
+Aug 09 03:26 : client: [6] closed
+Aug 09 03:26 : client: [7] opened from [::1]:53040
+Aug 09 03:26 : client: [7] closed
+Aug 09 03:27 : client: [8] opened from [::1]:53042
+Aug 09 03:27 : client: [8] closed
+Aug 09 03:27 : client: [9] opened from [::1]:53044
+Aug 09 03:27 : client: [9] closed
+Aug 09 03:28 : client: [10] opened from [::1]:53046
+Aug 09 03:28 : client: [10] closed
+Aug 09 03:28 : client: [11] opened from [::1]:53048
+Aug 09 03:28 : client: [11] closed
+Aug 09 03:34 : client: [12] opened from [::1]:53050
+Aug 09 03:34 : client: [12] closed
+Aug 09 03:34 : client: [13] opened from [::1]:53052
+Aug 09 03:34 : client: [13] closed
+Aug 09 03:34 : client: [14] opened from [::1]:53054
+Aug 09 03:34 : client: [14] closed
+Aug 09 03:34 : client: [15] opened from [::1]:53056
+Aug 09 03:34 : client: [15] closed
+Aug 09 03:35 : client: [16] opened from [::1]:53058
+Aug 09 03:35 : client: [16] closed
+Aug 09 03:35 : client: [17] opened from [::1]:53060
+Aug 09 03:35 : client: [17] closed
+Aug 09 03:37 : client: [18] opened from [::1]:53062
+Aug 09 03:37 : client: [18] closed
+Aug 09 03:37 : client: [19] opened from [::1]:53064
+Aug 09 03:37 : client: [19] closed
+Aug 09 03:42 : client: [20] opened from [::1]:53104
+Aug 09 03:42 : client: [20] closed
+Aug 09 03:42 : client: [21] opened from [::1]:53106
+Aug 09 03:42 : client: [21] closed
+Aug 09 03:43 : client: [22] opened from [::1]:53108
+Aug 09 03:43 : client: [22] closed
+Aug 09 03:43 : client: [23] opened from [::1]:53110
+Aug 09 03:43 : client: [23] closed
+Aug 09 03:49 : client: [24] opened from [::1]:53112
+Aug 09 03:49 : client: [24] closed
+Aug 09 03:49 : client: [25] opened from [::1]:53114
+Aug 09 03:49 : client: [25] closed
+Aug 09 03:53 : client: [26] opened from [::1]:53116
+Aug 09 03:53 : client: [26] closed
+Aug 09 03:53 : client: [27] opened from [::1]:53118
+Aug 09 03:53 : client: [27] closed
+Aug 09 03:56 : client: [28] opened from [::1]:53120
+Aug 09 03:56 : client: [28] closed
+Aug 09 03:56 : client: [29] opened from [::1]:53122
+Aug 09 03:56 : client: [29] closed
+Aug 09 04:04 : client: [30] opened from [::1]:53124
+Aug 09 04:04 : client: [30] closed
+Aug 09 04:04 : client: [31] opened from [::1]:53126
+Aug 09 04:04 : client: [31] closed
+Aug 09 04:06 : client: [32] opened from [::1]:53128
+Aug 09 04:06 : client: [32] closed
+Aug 09 04:06 : client: [33] opened from [::1]:53130
+Aug 09 04:06 : client: [33] closed
+Aug 09 04:07 : client: [34] opened from [::1]:53132
+Aug 09 04:07 : client: [34] closed
+Aug 09 04:07 : client: [35] opened from [::1]:53134
+Aug 09 04:07 : client: [35] closed
+Aug 09 04:07 : client: [36] opened from [::1]:53136
+Aug 09 04:08 : client: [36] closed
+Aug 09 04:10 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/03-m03b.mp3"
+Aug 09 04:12 : client: [37] opened from [::1]:53138
+Aug 09 04:12 : client: [37] closed
+Aug 09 04:12 : client: [38] opened from [::1]:53140
+Aug 09 04:12 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/04-m04.mp3"
+Aug 09 04:12 : client: [38] closed
+Aug 09 04:19 : client: [39] opened from [::1]:53142
+Aug 09 04:19 : client: [39] closed
+Aug 09 04:19 : client: [40] opened from [::1]:53144
+Aug 09 04:19 : client: [40] closed
+Aug 09 04:21 : client: [41] opened from [::1]:53146
+Aug 09 04:21 : client: [41] closed
+Aug 09 04:21 : client: [42] opened from [::1]:53148
+Aug 09 04:21 : client: [42] closed
+Aug 09 04:21 : client: [43] opened from [::1]:53150
+Aug 09 04:21 : client: [43] closed
+Aug 09 04:21 : client: [44] opened from [::1]:53152
+Aug 09 04:21 : client: [44] closed
+Aug 09 04:23 : client: [45] opened from [::1]:53154
+Aug 09 04:23 : client: [45] closed
+Aug 09 04:23 : client: [46] opened from [::1]:53156
+Aug 09 04:23 : client: [46] closed
+Aug 09 04:26 : client: [47] opened from [::1]:53158
+Aug 09 04:26 : client: [47] closed
+Aug 09 04:26 : client: [48] opened from [::1]:53160
+Aug 09 04:26 : client: [48] closed
+Aug 09 04:26 : client: [49] opened from [::1]:53162
+Aug 09 04:27 : client: [49] closed
+Aug 09 04:27 : client: [50] opened from [::1]:53170
+Aug 09 04:27 : client: [50] closed
+Aug 09 04:28 : client: [51] opened from [::1]:53172
+Aug 09 04:30 : client: [51] closed
+Aug 09 04:31 : client: [52] opened from [::1]:53174
+Aug 09 04:31 : client: [52] closed
+Aug 09 04:34 : client: [53] opened from [::1]:53176
+Aug 09 04:34 : client: [53] closed
+Aug 09 04:37 : client: [54] opened from [::1]:53178
+Aug 09 04:37 : client: [54] closed
+Aug 09 04:40 : client: [55] opened from [::1]:53180
+Aug 09 04:41 : client: [55] closed
+Aug 09 04:41 : client: [56] opened from [::1]:53182
+Aug 09 04:41 : client: [56] closed
+Aug 09 04:41 : client: [57] opened from [::1]:53184
+Aug 09 04:43 : client: [57] closed
+Aug 09 04:43 : client: [58] opened from [::1]:53186
+Aug 09 04:43 : client: [58] closed
+Aug 09 04:43 : client: [59] opened from [::1]:53188
+Aug 09 04:46 : player: played "kara-no-kyoukai/kalafina-seventh-heaven/01.-overture.mp3"
+Aug 09 04:48 : client: [59] closed
+Aug 09 04:48 : client: [60] opened from [::1]:53390
+Aug 09 04:51 : player: played "kara-no-kyoukai/kalafina-seventh-heaven/04.-natsu-no-ringo.mp3"
+Aug 09 04:51 : client: [60] closed
+Aug 09 04:51 : client: [61] opened from [::1]:53562
+Aug 09 04:54 : client: [61] closed
+Aug 09 04:54 : client: [62] opened from [::1]:53574
+Aug 09 04:59 : player: played "kara-no-kyoukai/kalafina-seventh-heaven/10.-ongaku.mp3"
+Aug 09 05:05 : player: played "kara-no-kyoukai/kalafina-seventh-heaven/12.-sprinter.mp3"
+Aug 09 05:05 : client: [62] closed
+Aug 09 05:06 : client: [63] opened from [::1]:53662
+Aug 09 05:06 : client: [63] closed
+Aug 09 05:07 : client: [64] opened from [::1]:53664
+Aug 09 05:11 : client: [64] closed
+Aug 09 05:12 : client: [65] opened from [::1]:53670
+Aug 09 05:12 : player: played "kara-no-kyoukai/kalafina-fairytale/02.-serenato.mp3"
+Aug 09 05:12 : client: [65] closed
+Aug 09 05:17 : player: played "kara-no-kyoukai/kalafina-seventh-heaven/09.-serenato.mp3"
+Aug 09 05:17 : client: [66] opened from [::1]:53672
+Aug 09 05:17 : client: [67] opened from [::1]:53674
+Aug 09 05:18 : client: [67] closed
+Aug 09 05:18 : client: [68] opened from [::1]:53676
+Aug 09 05:18 : client: [66] closed
+Aug 09 05:21 : client: [68] closed
+Aug 09 05:22 : client: [69] opened from [::1]:53678
+Aug 09 05:23 : client: [69] closed
+Aug 09 05:24 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 09 05:25 : player: played "Ted Drakopulos - Lady Lie Nier Me (baroque guitar) Weymss Manuscript_193465660_soundcloud (1).mp3"
+Aug 09 05:25 : client: [70] opened from [::1]:53680
+Aug 09 05:26 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 09 05:26 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 09 05:26 : client: [70] closed
+Aug 09 05:26 : client: [71] opened from [::1]:53682
+Aug 09 05:26 : client: [71] closed
+Aug 09 05:26 : client: [72] opened from [::1]:53684
+Aug 09 05:27 : update: updating /Ted Drakopulos - Lady Lie Nier Me (baroque guitar) Weymss Manuscript_193465660_soundcloud (1).mp3
+Aug 09 05:30 : player: played "cornershop-and-the-double-o-groove-of/cornershop-ft-bubbley-kaur-natch-ample-play-records-t-nzo9z-fdq.wav"
+Aug 09 05:32 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 09 05:35 : client: [72] closed
+Aug 09 05:35 : client: [73] opened from [::1]:53762
+Aug 09 05:38 : exception: No such directory
+Aug 09 05:38 : exception: Failed to open /home/gako/.config/ncmpcpp/playlists/Ongaku.m3u: No such file or directory
+Aug 09 05:38 : exception: No such playlist
+Aug 09 05:38 : player: played "improv on meantone tempered portatief organ_191544623_soundcloud.mp3"
+Aug 09 05:38 : player: played "lag-jaa-gale-sadhana-lata-mangeshkar-woh-kaun-thi-romantic-song-tfr6g5zves8.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:40 : player: played "start.wav"
+Aug 09 05:41 : player: played "start.wav"
+Aug 09 05:43 : player: played "start.wav"
+Aug 09 05:43 : player: played "start.wav"
+Aug 09 05:43 : player: played "start.wav"
+Aug 09 05:43 : player: played "start.wav"
+Aug 09 05:48 : exception: No such directory
+Aug 09 05:48 : exception: Failed to open /home/gako/.config/ncmpcpp/playlists/ven.m3u: No such file or directory
+Aug 09 05:48 : exception: No such playlist
+Aug 09 05:51 : client: [73] closed
+Aug 09 05:51 : client: [74] opened from [::1]:53802
+Aug 09 05:54 : player: played "clinton/disco-and-the-halfway-to-discontent/electric-ice-cream-miami-jammies-rkmlhxkrrxc.wav"
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/giddian-di-rani-5mgowmqw2tk.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/electric-ice-cream-miami-jammies-rkmlhxkrrxc.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/mr.-president-p5uwtckhqbu.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/welcome-to-tokyo-mr-otis-clay-1-0-0n-szvm.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-aka-cornershop-g.t.-road-jnzoxp7dm9i.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-buttoned-down-disco-ampleplayrecords-ox5n9ciumgk.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-people-power-in-the-disco-hour-azsxy-b-d2g.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-hip-hop-bricks-tjinder-singh-ampleplay-records-jiruo6pyc1g.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/sing-hosanna-nxjjqlywari.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/cornershop-the-hot-for-may-sound-mis0kgcduqc.wav
+Aug 09 05:54 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav
+Aug 09 05:56 : client: [74] closed
+Aug 09 05:56 : client: [75] opened from [::1]:53808
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/giddian-di-rani-5mgowmqw2tk.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/electric-ice-cream-miami-jammies-rkmlhxkrrxc.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/mr.-president-p5uwtckhqbu.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/welcome-to-tokyo-mr-otis-clay-1-0-0n-szvm.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-aka-cornershop-g.t.-road-jnzoxp7dm9i.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-buttoned-down-disco-ampleplayrecords-ox5n9ciumgk.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-people-power-in-the-disco-hour-azsxy-b-d2g.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-hip-hop-bricks-tjinder-singh-ampleplay-records-jiruo6pyc1g.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/sing-hosanna-nxjjqlywari.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/cornershop-the-hot-for-may-sound-mis0kgcduqc.wav
+Aug 09 05:57 : update: updating clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav
+Aug 09 05:58 : client: [75] closed
+Aug 09 05:58 : client: [76] opened from [::1]:53810
+Aug 09 05:58 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 09 05:58 : client: [76] closed
+Aug 09 06:00 : client: [77] opened from [::1]:53816
+Aug 09 06:01 : client: [77] closed
+Aug 09 06:04 : client: [78] opened from [::1]:53818
+Aug 09 06:04 : client: [78] closed
+Aug 09 06:05 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 09 06:05 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 09 06:07 : client: [79] opened from [::1]:53824
+Aug 09 06:07 : client: [79] closed
+Aug 09 06:08 : client: [80] opened from [::1]:53826
+Aug 09 06:10 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 09 06:10 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 09 06:14 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 09 06:15 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 09 06:50 : client: [80] closed
+Aug 09 06:50 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 09 23:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 23:27 : client: [0] opened from [::1]:59366
+Aug 09 23:27 : client: [0] closed
+Aug 10 00:21 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 10 15:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 15:15 : client: [0] opened from [::1]:45258
+Aug 10 15:15 : client: [0] closed
+Aug 10 15:15 : client: [1] opened from [::1]:45260
+Aug 10 15:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 15:15 : client: [1] closed
+Aug 10 15:15 : client: [2] opened from [::1]:45262
+Aug 10 15:26 : exception: "MPD" [alsa] failed to play: snd_pcm_writei() failed: Broken pipe
+Aug 10 15:26 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 11 00:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 00:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 00:25 : client: [0] opened from [::1]:44726
+Aug 11 00:25 : client: [0] closed
+Aug 11 00:27 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 11 00:28 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 11 00:32 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 11 01:06 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 11 01:10 : player: played "Ranking Ann-Feminine Gender-I0fS-xhLj2g.wav"
+Aug 11 01:10 : client: [1] opened from [::1]:45628
+Aug 11 01:10 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 11 01:10 : client: [1] closed
+Aug 11 04:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 04:15 : client: [0] opened from [::1]:60784
+Aug 11 04:15 : client: [0] closed
+Aug 11 06:09 : client: [1] opened from [::1]:35340
+Aug 11 06:09 : client: [1] closed
+Aug 11 06:10 : client: [2] opened from [::1]:35342
+Aug 11 06:10 : client: [2] closed
+Aug 11 06:13 : client: [3] opened from [::1]:35344
+Aug 11 06:13 : client: [3] closed
+Aug 11 06:16 : client: [4] opened from [::1]:35346
+Aug 11 06:16 : client: [4] closed
+Aug 11 06:18 : client: [5] opened from [::1]:35348
+Aug 11 06:18 : client: [5] closed
+Aug 11 06:23 : client: [6] opened from [::1]:35350
+Aug 11 06:23 : client: [6] closed
+Aug 11 06:25 : client: [7] opened from [::1]:35352
+Aug 11 06:25 : client: [7] closed
+Aug 11 06:34 : client: [8] opened from [::1]:35354
+Aug 11 06:34 : client: [8] closed
+Aug 11 06:34 : client: [9] opened from [::1]:35356
+Aug 11 06:34 : client: [9] closed
+Aug 11 06:35 : client: [10] opened from [::1]:35358
+Aug 11 06:35 : client: [10] closed
+Aug 11 06:35 : client: [11] opened from [::1]:35360
+Aug 11 06:35 : client: [11] closed
+Aug 11 06:38 : client: [12] opened from [::1]:35366
+Aug 11 06:38 : client: [12] closed
+Aug 11 06:40 : client: [13] opened from [::1]:35368
+Aug 11 06:40 : client: [13] closed
+Aug 11 06:41 : client: [14] opened from [::1]:35370
+Aug 11 06:41 : client: [14] closed
+Aug 11 06:42 : client: [15] opened from [::1]:35372
+Aug 11 06:42 : client: [15] closed
+Aug 11 07:57 : client: [16] opened from [::1]:36038
+xcb_connection_has_error() returned true
+xcb_connection_has_error() returned true
+Aug 11 07:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 07:57 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+xcb_connection_has_error() returned true
+Aug 11 07:58 : client: [16] closed
+Aug 11 07:58 : avahi: Client Disconnected, will reconnect shortly
+Aug 11 07:58 : exception: "MPD" [alsa] failed to play: snd_pcm_writei() failed: Broken pipe
+Aug 11 07:58 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Aug 11 07:58 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 12 00:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 00:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 00:18 : client: [0] opened from [::1]:33806
+Aug 12 00:18 : client: [0] closed
+Aug 12 00:19 : client: [1] opened from [::1]:33808
+Aug 12 00:19 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 12 00:19 : client: [1] closed
+Aug 12 02:04 : client: [2] opened from [::1]:35432
+Aug 12 02:04 : client: [2] closed
+Aug 12 04:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 04:31 : client: [0] opened from [::1]:53166
+Aug 12 04:31 : client: [0] closed
+Aug 12 23:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 23:46 : client: [0] opened from [::1]:37432
+Aug 12 23:46 : client: [0] closed
+Aug 13 08:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 08:51 : client: [0] opened from [::1]:32852
+Aug 13 08:51 : client: [0] closed
+Aug 13 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 11:18 : client: [0] opened from [::1]:41346
+Aug 13 11:18 : client: [0] closed
+Aug 13 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 11:18 : client: [1] opened from [::1]:41348
+Aug 13 11:18 : client: [1] closed
+Aug 13 11:19 : client: [2] opened from [::1]:41350
+Aug 13 11:19 : client: [2] closed
+Aug 13 11:22 : client: [3] opened from [::1]:41352
+Aug 13 11:23 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 11:27 : client: [3] closed
+Aug 13 11:27 : client: [4] opened from [::1]:41354
+Aug 13 11:27 : client: [4] closed
+Aug 13 11:29 : client: [5] opened from [::1]:41356
+Aug 13 11:30 : client: [6] opened from [::1]:41358
+Aug 13 11:30 : client: [6] closed
+Aug 13 11:30 : client: [7] opened from [::1]:41360
+Aug 13 11:34 : client: [7] closed
+Aug 13 11:35 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 11:35 : client: [5] closed
+Aug 13 11:37 : client: [8] opened from [::1]:41426
+Aug 13 12:21 : client: [8] closed
+Aug 13 12:23 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 12:34 : client: [9] opened from [::1]:41428
+Aug 13 12:36 : client: [9] closed
+Aug 13 12:41 : client: [10] opened from [::1]:41430
+Aug 13 12:46 : client: [10] closed
+Aug 13 12:57 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 13 13:01 : player: played "Ranking Ann-Feminine Gender-I0fS-xhLj2g.wav"
+Aug 13 13:04 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 13 13:05 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 13 13:09 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 13:22 : client: [11] opened from [::1]:41432
+Aug 13 13:23 : client: [11] closed
+Aug 13 13:23 : client: [12] opened from [::1]:41434
+Aug 13 13:34 : client: [12] closed
+Aug 13 13:36 : client: [13] opened from [::1]:41850
+Aug 13 13:36 : client: [13] closed
+Aug 13 13:36 : client: [14] opened from [::1]:41852
+Aug 13 13:36 : client: [14] closed
+Aug 13 13:41 : client: [15] opened from [::1]:41854
+Aug 13 13:41 : client: [15] closed
+Aug 13 13:42 : client: [16] opened from [::1]:41856
+Aug 13 13:43 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 13 13:43 : client: [16] closed
+Aug 13 13:43 : client: [17] opened from [::1]:41858
+Aug 13 13:43 : client: [17] closed
+Aug 13 13:44 : client: [18] opened from [::1]:41860
+Aug 13 13:44 : client: [18] closed
+Aug 13 13:46 : client: [19] opened from [::1]:41862
+Aug 13 13:46 : client: [19] closed
+Aug 13 13:47 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 13:49 : client: [20] opened from [::1]:41932
+Aug 13 13:52 : client: [20] closed
+Aug 13 13:53 : client: [21] opened from [::1]:41938
+Aug 13 13:53 : client: [21] closed
+Aug 13 13:54 : client: [22] opened from [::1]:41946
+Aug 13 13:55 : client: [22] closed
+Aug 13 14:20 : client: [23] opened from [::1]:41970
+Aug 13 14:21 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 13 14:25 : player: played "Ranking Ann-Feminine Gender-I0fS-xhLj2g.wav"
+Aug 13 14:28 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 13 14:28 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 13 14:33 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 14:35 : client: [23] closed
+Aug 13 14:35 : client: [24] opened from [::1]:42364
+Aug 13 14:35 : client: [24] closed
+Aug 13 14:36 : client: [25] opened from [::1]:42366
+Aug 13 14:38 : client: [25] closed
+Aug 13 14:38 : client: [26] opened from [::1]:42370
+Aug 13 14:39 : client: [26] closed
+Aug 13 14:40 : client: [27] opened from [::1]:42372
+Aug 13 14:40 : client: [27] closed
+Aug 13 14:44 : client: [28] opened from [::1]:42380
+Aug 13 14:44 : client: [28] closed
+Aug 13 14:49 : client: [29] opened from [::1]:42388
+Aug 13 14:50 : client: [29] closed
+Aug 13 14:53 : client: [30] opened from [::1]:42430
+Aug 13 14:57 : client: [30] closed
+Aug 13 14:57 : client: [31] opened from [::1]:42432
+Aug 13 14:57 : client: [31] closed
+Aug 13 15:00 : client: [32] opened from [::1]:42434
+Aug 13 15:02 : client: [32] closed
+Aug 13 15:04 : client: [33] opened from [::1]:42436
+Aug 13 15:04 : client: [33] closed
+Aug 13 15:05 : client: [34] opened from [::1]:42438
+Aug 13 15:05 : client: [34] closed
+Aug 13 15:06 : client: [35] opened from [::1]:42440
+Aug 13 15:07 : client: [35] closed
+Aug 13 15:08 : client: [36] opened from [::1]:42442
+Aug 13 15:08 : client: [36] closed
+Aug 13 15:08 : client: [37] opened from [::1]:42444
+Aug 13 15:09 : client: [38] opened from [::1]:42446
+Aug 13 15:09 : client: [37] closed
+Aug 13 15:14 : client: [38] closed
+Aug 13 15:15 : client: [39] opened from [::1]:42460
+Aug 13 15:15 : player: played "f.couperin-harpsichord-works-vol.1-scott-ross-b490mb9ccdu.wav"
+Aug 13 15:15 : client: [39] closed
+Aug 13 15:17 : client: [40] opened from [::1]:42466
+Aug 13 15:23 : client: [40] closed
+Aug 13 15:24 : client: [41] opened from [::1]:42754
+Aug 13 15:24 : player: played "buxtehude-passacaglia-d-minor-vcpz8v7fmty.wav"
+Aug 13 15:24 : client: [41] closed
+Aug 13 15:25 : client: [42] opened from [::1]:42756
+Aug 13 15:25 : client: [42] closed
+Aug 13 15:29 : player: played "Ranking Ann-Feminine Gender-I0fS-xhLj2g.wav"
+Aug 13 15:32 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 13 15:34 : client: [43] opened from [::1]:42788
+Aug 13 15:34 : client: [43] closed
+Aug 13 15:45 : client: [44] opened from [::1]:42800
+Aug 13 15:45 : client: [44] closed
+Aug 13 15:45 : client: [45] opened from [::1]:42802
+Aug 13 15:46 : client: [45] closed
+Aug 13 15:47 : client: [46] opened from [::1]:42810
+Aug 13 15:52 : client: [46] closed
+Aug 13 15:56 : client: [47] opened from [::1]:43046
+Aug 13 16:36 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 16:39 : client: [48] opened from [::1]:44854
+Aug 13 16:39 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 13 16:39 : client: [48] closed
+Aug 13 16:39 : client: [47] closed
+Aug 13 17:06 : client: [49] opened from [::1]:45180
+Aug 13 17:06 : client: [49] closed
+Aug 13 17:06 : client: [50] opened from [::1]:45182
+Aug 13 17:06 : client: [50] closed
+Aug 13 17:11 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 13 17:19 : client: [51] opened from [::1]:45196
+Aug 13 17:19 : client: [51] closed
+Aug 13 17:19 : client: [52] opened from [::1]:45198
+Aug 13 17:21 : client: [52] closed
+Aug 13 17:21 : client: [53] opened from [::1]:45200
+Aug 13 17:21 : client: [53] closed
+Aug 13 17:23 : client: [54] opened from [::1]:45208
+Aug 13 17:23 : client: [54] closed
+Aug 13 17:25 : client: [55] opened from [::1]:45210
+Aug 13 17:25 : client: [55] closed
+Aug 13 17:29 : client: [56] opened from [::1]:45214
+Aug 13 17:31 : client: [56] closed
+Aug 13 17:39 : client: [57] opened from [::1]:45228
+Aug 13 17:39 : client: [57] closed
+Aug 13 17:40 : client: [58] opened from [::1]:45230
+Aug 13 17:44 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 13 17:45 : client: [58] closed
+Aug 13 17:48 : player: played "Ranking Ann-Feminine Gender-I0fS-xhLj2g.wav"
+Aug 13 17:49 : client: [59] opened from [::1]:45240
+Aug 13 17:51 : player: played "Ranking Ann - Problem Lady-uyOg-IEB-f4.wav"
+Aug 13 18:08 : client: [59] closed
+Aug 13 19:40 : player: played "f.couperin-harpsichord-works-vol.1-scott-ross-b490mb9ccdu.wav"
+Aug 13 21:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 21:40 : client: [0] opened from [::1]:51602
+Aug 13 21:40 : client: [0] closed
+Aug 13 21:41 : client: [1] opened from [::1]:51604
+Aug 13 21:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 21:44 : client: [1] closed
+Aug 13 21:45 : client: [2] opened from [::1]:51606
+Aug 13 21:45 : client: [2] closed
+Aug 13 21:45 : client: [3] opened from [::1]:51608
+Aug 13 21:50 : client: [3] closed
+Aug 13 21:50 : client: [4] opened from [::1]:51610
+Aug 13 21:50 : client: [4] closed
+Aug 13 21:51 : client: [5] opened from [::1]:51612
+Aug 13 21:53 : client: [5] closed
+Aug 13 21:59 : client: [6] opened from [::1]:51970
+Aug 13 21:59 : player: played "f.couperin-harpsichord-works-vol.1-scott-ross-b490mb9ccdu.wav"
+Aug 13 21:59 : client: [6] closed
+Aug 15 00:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 00:12 : client: [0] opened from [::1]:39494
+Aug 15 00:12 : client: [0] closed
+Aug 16 00:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 00:05 : client: [0] opened from [::1]:39058
+Aug 16 00:05 : client: [0] closed
+Aug 16 23:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 23:32 : client: [0] opened from [::1]:50630
+Aug 16 23:32 : client: [0] closed
+Aug 17 04:34 : client: [1] opened from [::1]:55302
+Aug 17 04:34 : client: [1] closed
+Aug 18 00:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 00:22 : client: [0] opened from [::1]:40510
+Aug 18 00:22 : client: [0] closed
+Aug 18 01:04 : client: [1] opened from [::1]:40512
+Aug 18 01:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 01:09 : player: played "clinton/disco-and-the-halfway-to-discontent/clinton-before-the-fizz-is-gone.wav"
+Aug 18 01:09 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 18 01:23 : exception: "MPD" [alsa] failed to play: snd_pcm_writei() failed: Broken pipe
+Aug 18 01:23 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 19 01:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 01:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 01:03 : client: [0] opened from [::1]:42528
+Aug 19 01:03 : client: [0] closed
+Aug 19 01:04 : client: [1] opened from [::1]:42530
+Aug 19 01:04 : client: [1] closed
+Aug 19 01:05 : client: [2] opened from [::1]:42532
+Aug 19 01:05 : client: [2] closed
+Aug 19 01:12 : client: [3] opened from [::1]:42534
+Aug 19 01:12 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 19 01:12 : client: [3] closed
+Aug 19 01:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 01:55 : client: [0] opened from [::1]:56988
+Aug 19 01:55 : client: [0] closed
+Aug 19 02:13 : client: [1] opened from [::1]:56990
+Aug 19 02:13 : client: [1] closed
+Aug 19 04:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 04:47 : client: [0] opened from [::1]:57008
+Aug 19 04:47 : client: [0] closed
+Aug 19 04:47 : client: [1] opened from [::1]:57010
+Aug 19 04:47 : update: removing improv on meantone tempered portatief organ_191544623_soundcloud.mp3
+Aug 19 04:47 : update: removing Ranking Ann   Liberated Woman-jjG_rajYEks.wav
+Aug 19 04:47 : update: removing Linval Thompson - Back Against The Wall-umkUivOfdBI.wav
+Aug 19 04:47 : update: removing Ted Drakopulos - Lady Lie Nier Me (baroque guitar) Weymss Manuscript_193465660_soundcloud (1).mp3
+Aug 19 04:47 : update: removing Ranking Ann-Feminine Gender-I0fS-xhLj2g.wav
+Aug 19 04:47 : update: removing Ranking Ann - Problem Lady-uyOg-IEB-f4.wav
+Aug 19 04:47 : client: [1] closed
+Aug 19 04:47 : update: added /ranking-ann-problem-lady-uyog-ieb-f4.wav
+Aug 19 04:47 : update: added /linval-thompson-back-against-the-wall-umkuivofdbi.wav
+Aug 19 04:47 : update: added /boom-bam-bum-boo-chop-173054614-soundcloud.mp3
+Aug 19 04:47 : update: added /ranking-ann-feminine-gender-i0fs-xhlj2g.wav
+Aug 19 04:47 : update: added /improv-on-meantone-tempered-portatief-organ-191544623-soundcloud.mp3
+Aug 19 04:47 : update: added /ted-drakopulos-lady-lie-nier-me-baroque-guitar-weymss-manuscript-193465660-soundcloud-1.mp3
+Aug 19 04:47 : update: added /ranking-ann-liberated-woman-jjg-rajyeks.wav
+Aug 19 04:47 : client: [2] opened from [::1]:57012
+Aug 19 04:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 04:48 : player: played "boom-bam-bum-boo-chop-173054614-soundcloud.mp3"
+Aug 19 04:49 : client: [2] closed
+Aug 19 04:49 : client: [3] opened from [::1]:57014
+Aug 19 04:49 : player: played "boom-bam-bum-boo-chop-173054614-soundcloud.mp3"
+Aug 19 04:49 : client: [3] closed
+Aug 20 17:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 17:23 : client: [0] opened from [::1]:38962
+Aug 20 17:23 : client: [0] closed
+Aug 21 01:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 01:42 : client: [0] opened from [::1]:34478
+Aug 21 01:42 : client: [0] closed
+Aug 21 05:04 : client: [1] opened from [::1]:48056
+Aug 21 05:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 05:04 : client: [1] closed
+Aug 21 05:04 : client: [2] opened from [::1]:48058
+Aug 21 05:04 : client: [2] closed
+Aug 21 05:04 : client: [3] opened from [::1]:48060
+Aug 21 05:05 : player: played "boom-bam-bum-boo-chop-173054614-soundcloud.mp3"
+Aug 21 05:05 : player: played "kara-no-kyoukai/kara-no-kyoukai-1-ost/15-m15.mp3"
+Aug 21 05:07 : client: [3] closed
+Aug 21 05:08 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 21 15:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 15:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 15:56 : client: [0] opened from 127.0.0.1:59546
+Aug 21 15:56 : client: [0] closed
+Aug 21 15:56 : client: [1] opened from 127.0.0.1:59548
+Aug 21 15:56 : player: played "big-youth-dreadlocks-dread-full-album-caocejueexi.wav"
+Aug 21 15:56 : client: [1] closed
+Aug 21 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted

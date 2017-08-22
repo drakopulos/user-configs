@@ -1,0 +1,40 @@
+!URxvt.font: -*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*
+!URxvt.font: -*-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*
+!URxvt.font: -*-clean-medium-r-normal-*-14-*-100-*-*-*-*-* 
+!URxvt.font: -*-tamsyn-medium-r-normal-*-17-*-*-*-*-*-*-*
+!URxvt.font: -vc-neoxis-medium-r-normal-*-10-*-*-*-*-*-*-*
+!URxvt.font: -*-neep alt-medium-r-normal-*-11-*-*-*-c-*-*-*
+!URxvt.font: -artwiz-smoothansi-medium-r-*-*-13-*-*-*-*-*-*-*
+!URxvt.font: -artwiz-smoothansi-medium-r-normal-*-17-*-*-*-*-*-*-*
+!URxvt.font: -artwiz-nu-medium-r-normal-*-17-*-*-*-*-*-*-*
+!URxvt.font: -artwiz-cure-medium-r-normal-*-11-*-*-*-*-*-*-*
+!URXVT.font: -artwiz-glisp-medium-r-normal-*-11-*-*-*-*-*-*-*
+!URxvt.font: -artwiz-gelly-medium-r-normal-*-17-*-*-*-*-*-*-*
+!URxvt.font: -artwiz-snap-normal-r-normal-*-10-*-*-*-p-*-*-*
+!URxvt.font: -artwiz-mintsmild-medium-r-normal-*-8-*-*-*-p-*-*-*
+!URxvt.font: -*-codingfonttobi1-medium-r-normal-*-12-*-*-*-*-*-*-*
+!URxvt.font: -*-gohufont-medium-r-normal-*-14-*-*-*-*-*-*-*
+!URxvt.font: -nil-profont-medium-r-normal-*-12-120-72-72-c-60-iso8859-*
+!URxvt.font: -*-boxxy-medium-r-normal-*-14-*-*-*-*-*-*-*
+!URxvt.font: -sgi-screen-medium-r-normal-*-13-*-*-*-*-*-*-*
+!URxvt.font: -*-gohufont-medium-r-normal-*-11-*-*-*-*-*-*-*
+!URxvt.font: -*-haxor-medium-r-normal-*-12-*-*-*-*-*-*-*
+!URxvt.font: -*-gomme-medium-r-normal-*-*-*-*-*-*-*-*-*
+!URxvt.font: -*-orp-medium-r-semicondensed-*-12-*-*-*-*-*-*-*
+URxvt.font: -*-tamsyn-medium-r-normal-*-13-*-*-*-*-*-*-*
+!URxvt.font: -*-speedy-medium-r-normal-*-12-90-96-96-c-70-iso8859-*
+!URxvt.font: -wiktorb-leggie-medium-r-normal-*-12-*-*-*-c-*-*-*
+!URxvt.font: -chris2-sq-medium-r-normal-*-15-140-75-75-c-100-iso8859-1
+!URxvt.font: -sgi-screen-medium-r-normal-*-12-120-72-72-m-70-iso8859-1
+!URxvt.font: -benis-uushi-medium-r-normal-*-*-*-*-*-*-*-*-*
+!URxvt.font: -*-raize-regular-*-*-*-*-*-*-*-*-*-*-*
+!URxvt.font: -mplus-fxd-medium-r-normal-*-10-*-*-*-*-*-*-*
+!URxvt.font: -mplus-hlv-medium-r-normal-*-10-*-75-75-p-50-*-*
+!URxvt.font: -mplus-sys-medium-r-normal-*-10-*-*-*-*-*-*-*
+
+URxvt.boldFont:
+URxvt*scrollBar: false
+URxvt*loginShell: false
+URxvt.internalBorder:  20
+
+#include ".Xresources-colors"
