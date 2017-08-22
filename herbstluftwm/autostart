@@ -1,0 +1,166 @@
+#!/bin/bash
+# herbstluftwm config
+
+hc() {
+    herbstclient "$@"
+}
+
+hc emit_hook reload
+
+# remove all existing keybindings
+hc keyunbind --all
+
+# keybindings
+Mod=Mod4
+
+hc keybind $Mod-q spawn herbdmenu
+hc keybind $Mod-0xff50 spawn herbstclient reload
+hc keybind $Mod-0xff1b spawn herbstclient quit
+hc keybind $Mod-0xff57 spawn poweroff
+hc keybind 0xffc2 spawn scrot
+hc keybind 0xffc8 spawn mpc toggle
+hc keybind 0xffc7 spawn mpc prev
+hc keybind 0xffc9 spawn mpc next
+hc keybind 0xffc6 spawn x-terminal-emulator -e sudo ceni
+hc keybind $Mod-Shift-c close
+hc keybind $Mod-d spawn dmenu-bind.sh
+hc keybind $Mod-Shift-r spawn x-terminal-emulator -e ranger
+hc keybind $Mod-Shift-p spawn x-terminal-emulator -e htop
+hc keybind $Mod-Return spawn x-terminal-emulator
+hc keybind $Mod-m spawn x-terminal-emulator -e ncmpcpp
+hc keybind $Mod-space spawn termopen
+
+# focusing clients
+hc keybind $Mod-h     focus left
+hc keybind $Mod-j     focus down
+hc keybind $Mod-k     focus up
+hc keybind $Mod-l     focus right
+
+# moving clients
+hc keybind $Mod-Alt-h    shift left
+hc keybind $Mod-Alt-j    shift down
+hc keybind $Mod-Alt-k    shift up
+hc keybind $Mod-Alt-l    shift right
+
+# splitting frames
+# create an empty frame at the specified direction
+hc keybind $Mod-u       split   bottom  0.5
+hc keybind $Mod-o       split   right   0.5
+# let the current frame explode into subframes
+hc keybind $Mod-Control-space split explode
+
+# resizing frames
+resizestep=0.02
+hc keybind $Mod-Shift-h       resize left +$resizestep
+hc keybind $Mod-Shift-j       resize down +$resizestep
+hc keybind $Mod-Shift-k       resize up +$resizestep
+hc keybind $Mod-Shift-l       resize right +$resizestep
+# tags
+tag_names=( web media edit system)
+tag_keys=( {1..4} 0 )
+0
+hc rename default "${tag_names[0]}" || true
+for i in ${!tag_names[@]} ; do
+    hc add "${tag_names[$i]}"
+    key="${tag_keys[$i]}"
+    if ! [ -z "$key" ] ; then
+        hc keybind "$Mod-$key" use_index "$i"
+        hc keybind "$Mod-Shift-$key" move_index "$i"
+    fi
+done
+
+hc keybind $Mod-r rotate
+# cycle through tags
+hc keybind $Mod-period use_index +1 --skip-visible
+hc keybind $Mod-comma  use_index -1 --skip-visible
+
+# eayouting
+hc keybind $Mod-w remove
+hc keybind $Mod-c cycle_layout 1
+hc keybind $Mod-s floating toggle
+hc keybind $Mod-f fullscreen toggle
+hc keybind $Mod-p pseudotile toggle
+
+# mouse
+hc mouseunbind --all
+hc mousebind $Mod-Button1 move
+hc mousebind $Mod-Button2 zoom
+hc mousebind $Mod-Button3 resize
+
+# focus
+#hc keybind $Mod-BackSpacb   cycle_monitor
+hc keybind $Mod-Tab         cycle_all +1
+hc keybind $Mod-Shift-Tab   cycle_all -1
+hc keybind $Mod-n cycle
+#hc keybind $Mod-i jumpto urgent
+
+# theme
+hc attr theme.tiling.reset 1
+hc attr theme.floating.reset 1
+
+# Layer 1
+hc set frame_gap 40
+hsetroot -solid "#1b1911"
+
+
+# Layer 2
+hc set frame_border_active_color '#977856'
+hc set frame_border_normal_color '#1b1911'
+hc set frame_border_width 1
+
+# Layer 3
+hc set frame_bg_active_color     '#1b1911'
+hc set frame_bg_normal_color     '#1b1911'
+hc set window_gap 2
+hc set frame_padding 10
+hc set always_show_frame 0
+hc set frame_bg_transparent 0
+hc set frame_transparent_width 20
+hc set frame_active_opacity 100
+hc set frame_normal_opacity 1
+
+# Layer 4
+hc set window_border_active_color '#1b1911'
+hc set window_border_normal_color '#1b1911'
+hc set window_border_inner_color  '#1b1911'
+hc set window_border_width 4
+hc set window_border_inner_width 4
+
+# Float
+hc attr theme.active.outer_color '#977856'
+hc attr theme.normal.outer_color '#1b1911'
+hc attr theme.floating.border_width 5
+hc attr theme.floating.outer_width 20
+hc set raise_on_focus 1
+hc set mouse_recenter_gap 0
+
+# rules
+hc unrule -F
+#hc rule class=XTerm tag=3 # move all xterms to tag 3
+hc rule focus=on # normally focus new clients
+#hc rule focus=off # normally do not focus new clients
+# give focus to most common terminals
+#hc rule class~'(.*[Rr]xvt.*|.*[Tt]erm|Konsole)' focus=on
+hc rule windowtype~'_NET_WM_WINDOW_TYPE_(DIALOG|UTILITY|SPLASH)' pseudotile=on
+hc rule windowtype='_NET_WM_WINDOW_TYPE_DIALOG' focus=on
+hc rule windowtype~'_NET_WM_WINDOW_TYPE_(NOTIFICATION|DOCK|DESKTOP)' manage=off
+
+# unlock, just to be sure
+hc unlock
+
+herbstclient set tree_style '╾│ ├└╼─┐'
+
+# do multi monitor setup here, e.g.:
+#hc set_monitors 1280x1024+0+0 1280x1024+1280+0
+#hc set_monitors 1366x768+0+0 1280x720+1366+0
+# or simply:
+#hc detect_monitors
+
+# find the panel
+panel=~/.config/herbstluftwm/panel.sh
+[ -x "$panel" ] || panel=/etc/xdg/herbstluftwm/panel.sh
+for monitor in $(herbstclient list_monitors | cut -d: -f1) ; do
+    # start it on each monitor
+    "$panel" $monitor &
+done
+
